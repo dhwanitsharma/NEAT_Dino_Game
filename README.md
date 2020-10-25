@@ -1,4 +1,4 @@
-# NEAT Flappy Bird
+# NEAT Dino Game
 
 This project is based on NeuroEvolution of Augmenting Topologies (NEAT), which outperforms the best fixed-topology method on a challenging benchmark reinforcement learning task.Neuroevolution (NE), the artificial evolution of neural networks using genetic algorithms, has shown great promise in complex reinforcement learning tasks.NE is a promising approach to solving reinforcement learning problems for several reasons.
 Past studies have shown NE to be faster and more efficient than reinforcement learning methods such as Adaptive Heuristic Critic and Q-Learning on single pole balancing and robot arm control.Because NE searches for a behavior instead of a value function, it is effective in problems with
@@ -14,7 +14,7 @@ In this game, the AI has only a two input i.e when to jump and when to duck. Thi
 
 ### Application Flow
 In the image we can see the number of alive generations and the game interface.
-![Optional Text](../master/projImages/DinoGame.png)
+![Optional Text](../master/projImages/DinoGame.PNG)
 
 ### Tech Stack
 Python
